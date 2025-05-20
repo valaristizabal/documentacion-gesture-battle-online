@@ -13,12 +13,16 @@ export default defineConfig({
 					label: 'Requerimientos',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Requerimientos seleccionados', slug: 'requerimientos/example' },
+						{ label: 'Requerimientos seleccionados', slug: 'requerimientos/requerimiento' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Diagramas',
+					autogenerate: { directory: 'diagramas' },
+				},			
+				{
+					label: 'Interfaces',
+					autogenerate: { directory: 'interfaces' },
 				},
 			],
 		}),
