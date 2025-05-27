@@ -23,6 +23,10 @@ export default defineConfig({
 				{
 					label: 'Interfaces',
 					autogenerate: { directory: 'interfaces' },
+				},			
+				{
+					label: 'Base de datos',
+					autogenerate: { directory: 'base-de-datos' },
 				},
 			],
 		}),
