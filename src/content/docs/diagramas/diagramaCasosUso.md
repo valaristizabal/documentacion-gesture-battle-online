@@ -1,6 +1,6 @@
 ---
 
-## title: Diagrama de casos de uso
+title: Diagrama de casos de uso
 
 ---
 

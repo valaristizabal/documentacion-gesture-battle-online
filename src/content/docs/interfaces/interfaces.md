@@ -28,3 +28,6 @@ title: Interfaces
     <h2>Interfaz de las estadisticas al finalizar el juego</h2>
     <p>En esta interfaz el usuario podrá visualizar las estatisticas propias y de cada jugador al momento de finalizar la partida, encontrando el nombre de usuario junto con la puntuación, la opción de jugar nuevamente y de salirse</p>
 ![Interfaz 7](../../../assets/interfaz-7.png)
+    <h2>Ventana luego de validar la cámara</h2>
+    <p>En esta ventana se valida que el jugador cuente con cámara para poder jugar los minijuegos</p>
+![Interfaz 7](../../../assets/interfaz-9.jpg)
