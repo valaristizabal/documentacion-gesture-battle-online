@@ -2,11 +2,9 @@
 
 ## title: Diagrama de casos de uso
 
-# Diagrama de Casos de Uso
+---
 
 ![Diagrama casos uso](../../../assets/diagramaCasosUso.jpg)
-
----
 
 ## CU01 – Autenticación de Usuarios
 
